@@ -1,0 +1,25 @@
+{
+  "name": "socialmedia-rest-api-use-express",
+  "version": "1.0.0",
+  "description": "This repository contains a **Social Media REST API** built using **Express.js**. It provides a scalable and efficient backend solution for social networking platforms, allowing users to create, interact, and manage their social media activities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shamsuzzaha/Socialmedia-Rest-Api-use-Express.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Shamsuzzaha/Socialmedia-Rest-Api-use-Express.js/issues"
+  },
+  "homepage": "https://github.com/Shamsuzzaha/Socialmedia-Rest-Api-use-Express.js#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
